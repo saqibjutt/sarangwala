@@ -3,13 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "d5879cced8db0f03df56371041407801",
+  "assets/AssetManifest.json": "e1f7d17324ebdc9bb6175ecf194b3a78",
 "assets/assets/images/1.jpg": "38fc041f56f14bfa53d8fded810be66e",
 "assets/assets/images/2.jpg": "032558465d2683a7e66cf3d49362500e",
 "assets/assets/images/3.jpg": "80b28aef4cbedfb33310aeda3f529bce",
+"assets/assets/images/logo.png": "a76d69041bf4c43656802f731b11e6d2",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/NOTICES": "ba63bd6958a4ef7d5db5917ff386ca55",
+"assets/NOTICES": "8e1f938720cefdfb85ed21a7bd779569",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/getwidget/icons/dribble.png": "1e36936e4411f32b0e28fd8335495647",
 "assets/packages/getwidget/icons/facebook.png": "293dc099a89c74ae34a028b1ecd2c1f0",
@@ -33,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "841684abf261461e4260b3e14024dc67",
-"/": "841684abf261461e4260b3e14024dc67",
-"main.dart.js": "d19f6a0e2d8f7dfba890edcd7274653d",
+"index.html": "a8dbaf113d42bdf57fb26bd659bbf0fe",
+"/": "a8dbaf113d42bdf57fb26bd659bbf0fe",
+"main.dart.js": "7848a3fd5600d00995ea3813c173e871",
 "manifest.json": "a4573a3004c18116870b354dc0e5c5a9",
 "version.json": "adf0ad1333331698a95279da847fbcab"
 };
