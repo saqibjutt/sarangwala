@@ -78719,7 +78719,7 @@ H(a){var s=null,r="Password",q=t.p
 return A.f8(A.fS(s,s,s,s,A.be("Admin Login",s,s,s,s,s,s)),A.d1(A.a([A.bO(s,s,B.m,s,s,s,s,s,s,s,s,s,s,s),A.d1(A.a([A.ml(this.d,"Email","Add your email",!1,B.bz,"Email",1),A.ml(this.e,r,"Add your Password",!0,B.bz,r,1)],q),B.u,s,B.w,B.v),A.oF(new A.ahB(this,a),"Login")],q),B.u,s,B.w,B.v),s,s,s)}}
 A.ahB.prototype={
 $0(){var s,r=null,q=this.a
-q=q.d.a.a==="saqib7t2@gmail.com"&&q.e.a.a==="saqibjutt"
+q=q.d.a.a==="admin"&&q.e.a.a==="admin"
 s=this.b
 if(q){q=A.l3(new A.ahA(),r,t.z)
 A.dC(s,!1).eY(q)}else{q=s.K(t.c)
